@@ -1,173 +1,149 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
-<head>
-	<title>🖥️ RAY HACKSHAW</title>
+	<head>
+		<title>🖥️ RAY HACKSHAW</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
 
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="viewport" content="minimal-ui">
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="viewport" content="initial-scale=1.0,width=device-width,user-scalable=0" />
-	<meta name="description" content="Website of Ray Hackshaw, a developer from Auckland, New Zealand"/>
-	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16">
-	<link rel="manifest" href="/manifest.json">
-	<meta name="theme-color" content="#ffffff">
-	<meta name="msapplication-config" content="/assets/browserconfig.xml">
-	<meta name="theme-color" content="#ffffff">
-</head>
-<body>
-	<style>
-		@font-face {
-					font-family: 'Montserrat', sans-serif;
-					src: url("https://fonts.googleapis.com/css?family=Montserrat");
-				}
-		
-				* {
-					box-sizing: border-box;
-					-webkit-font-smoothing: antialiased;
-				}
-		
-				body {
-					margin: 0;
-					padding: 0;
-					text-transform: uppercase;
-					letter-spacing: 1.8px;
-					font-size: 16px;
-					line-height: 17px;
-					font-family: 'Montserrat', sans-serif;
-					font-weight: normal;
-					background: black;
-				}
-		
-				a {
-					color: inherit;
-					text-decoration: none;
-					padding-bottom: 2px;
-					display: inline-block;
-					pointer-events: auto;
-				}
-		
-				#left a:hover {
-					text-decoration: none;
-					color: #3300ff;
-				}
-		
-				#right a:hover {
-					text-decoration: none;
-					color: #3300ff;
-				}
-		
-				span {
-					cursor: default;
-				}
-		
-				section {
-					margin-bottom: 30px;
-				}
-		
-		
-				.flexbox-column {
-					display: flex;
-					width: 100%;
-					padding: 30px;
-				}
-		
-				.flexbox-column {
-						background-color: #E8D98E;
-						color: black;
-						position: relative;
-					}
-		
-				.flexbox-content {
-					display: flex;
-					flex-direction: column;
-					z-index: 2;
-					pointer-events: none;
-				}
-		
-				.flexbox-container > div:first-child {
-					background-color: #FFF99C;
-					color: black;
-				}
-		
-						@media (min-width: 768px) {
-					.flexbox-container {
-							display: flex;
-					 }
-					.flexbox-column {
-						height: 100%;
-						width: 50%;
-						background-color: #E8D98E;
-						color: black
-					}
-				}
-		
-				.clickableBackground {
-					position: absolute;
-					width: 100%;
-					height: 100%;
-					top: 0;
-					left: 0;
-					z-index: 1;
-				}
-		
-				.blink {
-					animation: blinker 1.3s infinite;
-				}
-		
-				@keyframes blinker {
-					0% { opacity: 1;}
-					40% { opacity: 0; }
-					100% { opacity: 1; }
-				}
-</style>
-  <div class="flexbox-container">
-    <div class="flexbox-column">
-      <div class="flexbox-content" id="right" href="https://goo.gl/maps/sixE4fS8awG2">
-      	<section>
-					<span>選ばれた作品<br>
-                        コンピュータープログラマー</span>
-				</section>
-				<section>
-                    <a href="http://rayhackshaw.com/resume.pdf" target="_blank">履歴書 (レズメ)</a><br>
-		    <a href="http://rayhackshaw.com/cv.pdf" target="_blank">履歴書 (シービー)</a><br>
-					
-                    <a href="https://linkedin.com/in/rayhackshaw" target="_blank">LinkedIn</a><br>
-                    <a href="https://github.com/ray-hackshaw" target="_blank">GitHub</a>
-					<br><br><br><br><br><br><br><br><br><br><br><br><br>
-                </section>
-				<section>
-                    <a href="https://www.facebook.com/hackshawray1" target="_blank">フェイスブック</a><br>
-					<a href="mailto:ray.hackshaw@gmail.com" target="_blank">eメール</a><br/>
-				</section>
-      </div>
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
+					<h1 id="logo"><a href="#">Ray Hackshaw</a></h1>
+					<p>University student,<br />
+					developer, programmer,<br /> 
+					 UX/UXD.</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">About</a></li>
+						<li><a href="#two">Activity</a></li>
+						<li><a href="#three">Resources</a></li>
+						<li><a href="#four">Contact</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><a href="#" class="icon solid fa-language"><span class="label">Language</span></a></li>
+					</ul>
+				</footer>
+			</section>
 
-    	</a>
-    </div>
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-    <div class="flexbox-column">
-      <div class="flexbox-content" id="left">
-	      <section>
-					<span>Ray Hackshaw<br>
-                    Developer</span>
-				</section>
-				<section>
-                    <a href="http://rayhackshaw.com/cv.pdf" target="_blank">Curriculum Vitae</a><br>
-		    <a href="http://rayhackshaw.com/resume.pdf" target="_blank">Resume</a><br>
-			
-                    <a href="https://linkedin.com/in/rayhackshaw" target="_blank">LinkedIn</a><br>
-                    <a href="https://github.com/rayhackshaw" target="_blank">GitHub</a>
-					<br><br><br><br><br><br><br><br><br><br><br><br><br>
-                </section>
-                <section>
-                    <a href="https://www.facebook.com/hackshawray1" target="_blank">Facebook</a><br>
-                    <a href="mailto:ray.hackshaw@gmail.com" target="_blank">email</a><br>
-                </section>
-            </div>
-            </a>
-        </div>
-  </div>
-	<script src="//instant.page/1.2.2" type="module" integrity="sha384-2xV8M5griQmzyiY3CDqh1dn4z3llDVqZDqzjzcY+jCBCk/a5fXJmuZ/40JJAPeoU"></script>
-</body>
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="image main" data-position="center">
+									<img src="images/banner.jpg" alt="" />
+								</div>
+								<div class="container">
+									<header class="major">
+										<h2>Ray Hackshaw</h2>
+										<p>Computer Science.<br />
+										 University of Auckland, New Zealand.</p>
+									</header>
+									<p>I am a computer science student with a passion for
+										web-development and human computer interaction.
+										Through my time at university as well as my own
+										personal research, I have attempted to sculpt an
+										understanding of computer science through the lens
+										of both the logical (tangible) and the human
+										(abstract) perspectives. 
+										
+										Through every and any facet of my work, I aim to
+										further explore the significance of this relationship,
+										and hopefully by achieving and maintaining a
+										balance between these two, better the lives of both
+										users and developers around me.
+									</p>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+								<div class="container">
+									<h3>Activity (work in progress)</h3>
+									<p>Currently working on maintaining and progressing these projects:</p>
+									<ul class="feature-icons">
+										<li class="icon solid fa-code"><a href=#>Programming projects</a></li>
+										<li class="icon solid fa-book"><a href=#>Course history and analysis</a></li>
+										<li class="icon solid fa-smile-beam"><a href=#>Personal hobbies</a></li>
+										<li class="icon solid fa-plane-departure"><a href=#>Future plans</a></li>
+									</ul>
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three">
+								<div class="container">
+									<h3>Resources</h3>
+									<p>For anyone interested, my curriculum vitae (wip) as well as my resume can be found below.</p>
+									<div class="features">
+										<article>
+											<a href="http://rayhackshaw.com/resume.pdf" class="image"><img src="images/pic01.jpg" alt="" /></a>
+											<div class="inner">
+												<h4><a href="http://rayhackshaw.com/resume.pdf">Resume</a></h4>
+												<p>A summarised document of prior/current education, work experience, work related skills.</p>
+											</div>
+										</article>
+										<article>
+											<a href="http://rayhackshaw.com/cv.pdf" class="image"><img src="images/pic02.jpg" alt="" /></a>
+											<div class="inner">
+												<h4><a href="http://rayhackshaw.com/cv.pdf">Curriculum Vitae</a></h4>
+												<p>An indepth account of prior/current education, reflections, and course history.</p>
+											</div>
+										</article>
+									</div>
+								</div>
+							</section>
+
+						<!-- Four -->
+							<section id="four">
+								<div class="container">
+									<h3>Contact Me</h3>
+									<p>For any queries or general inquiries, feel free to contact me on any of the media below:</p>
+									<ul class="icons">
+										<li><a href="mailto:ray.hackshaw@gmail.com" target='_blank' class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+										<li><a href="tel:+642102328715" target='_blank' class="icon solid fa-phone"><span class="label">Phone</span></a></li>
+										<li><a href="https://www.linkedin.com/in/rayhackshaw/" target='_blank' class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+										<li><a href="https://www.facebook.com/hackshawray1" target='_blank' class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="https://github.com/ray-hackshaw" target='_blank' class="icon brands fa-github"><span class="label">Github</span></a></li>
+									</ul>
+								</div>
+							</section>
+					</div>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="container">
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li><li>Designer: <a href="https://twitter.com/ajlkn">ajlkn</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
 </html>

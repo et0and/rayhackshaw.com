@@ -1,0 +1,154 @@
+{
+    "courses": [
+      {
+        "code": "COMPSCI101",
+        "title": "Principles of Programming",
+        "description": "",
+        "projects": ""
+      },
+      {
+        "code": "COMPSCI111",
+        "title": "An Introduction to Practical Computing",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "COMPSCI105",
+        "title": "Principles of Computer Science",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "COMPSCI210",
+        "title": "Computer Systems 1",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "COMPSCI220",
+        "title": "Algorithms and Data Structures",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "COMPSCI225",
+        "title": "Discrete Structures in Mathematics and Computer Science",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "COMPSCI230",
+        "title": "Programming Techniques",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "COMPSCI335",
+        "title": "Functional Programming and Distributed Services",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "COMPSCI340",
+        "title": "Operating Systems",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "COMPSCI345",
+        "title": "Human-computer Interaction",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "COMPSCI361",
+        "title": "Machine Learning",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "COMPSCI373",
+        "title": "Computer Graphics and Image Processing",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "GEOG102",
+        "title": "Geography of the Human Environment",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "GEOG202",
+        "title": "Cities, Regions & Communities",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "GEOG205",
+        "title": "Environment and Society",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "GEOG305",
+        "title": "Population, Health and Society",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "MATHS102",
+        "title": "Functioning in Mathematics",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "MATHS108",
+        "title": "General Mathematics 1",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "PHYSICS107",
+        "title": "Planets, Stars and Galaxies",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "PHYSICS140",
+        "title": "Digital Fundamentals",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "THEOREL106G",
+        "title": "Islam and the Contemporary World",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "PHIL105G",
+        "title": "Critical Thinking",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "HISTORY242",
+        "title": "Early Modern Japan 1600-1868",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "ANTHRO102",
+        "title": "How Humans Evolve",
+        "description": "",
+        "projects": ""
+    },
+    {
+        "code": "JAPANESE150",
+        "title": "Exploring Japan",
+        "description": "",
+        "projects": ""
+    }
+    ]
+}

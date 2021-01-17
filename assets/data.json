@@ -75,79 +75,79 @@
     {
         "code": "GEOG102",
         "title": "Geography of the Human Environment",
-        "description": "",
+        "description": "An introductory course to geographic approaches to environmental, economic, cultural and social processes as they impact on social patterns of human development and resource use at regional, national and international levels. The relationships among processes and their geographic outcomes are explored through discussion of social geographies of difference, uneven environmental development, cultural geography and the environment, and geographies of the built environment.",
         "projects": ""
     },
     {
         "code": "GEOG202",
         "title": "Cities, Regions & Communities",
-        "description": "",
+        "description": "A paper that acts to explore changes in contemporary urban societies and explains these using core concepts and methods in human geography. Concepts regarding standard techniques for analysing social and economic change are introduced, with a focus on interpreting and understanding social and economic data to make accurate observations in regards to cultural processes.",
         "projects": ""
     },
     {
         "code": "GEOG205",
         "title": "Environment and Society",
-        "description": "",
+        "description": "A course that provides a critical exploration of the interconnectedness of environment and society. This paper highlights the importance of understanding how different views and attitudes influence people's interactions with the environment. Key themes include governance, management and development, which are addressed through issues such as conservation, climate change adaptation, disasters and resource use – examined at both national and international levels.",
         "projects": ""
     },
     {
         "code": "GEOG305",
         "title": "Population, Health and Society",
-        "description": "",
+        "description": "The social and the spatial are deeply connected in our experience of contemporary society. This course surveys selected themes in the related fields of population, health and social geography. The links between these fields are explored with particular reference to New Zealand. The course adopts various approaches to identify and explain underlying processes and discusses the policies employed to promote or contain the consequences. ",
         "projects": ""
     },
     {
         "code": "MATHS102",
         "title": "Functioning in Mathematics",
-        "description": "",
+        "description": "A preliminary introduction paper to Calculus that builds mathematical skills and develops conceptual thinking. The course acts to prepare students for further study in mathematics, and is a prerequisite for computer science majors. ",
         "projects": ""
     },
     {
         "code": "MATHS108",
         "title": "General Mathematics 1",
-        "description": "",
+        "description": "A general entry paper for mathematics, important for commerce and social sciences. Topics are split over more advanced algebra and calculus concepts, acting as an extension of Year 13 grade mathematics. ",
         "projects": ""
     },
     {
         "code": "PHYSICS107",
         "title": "Planets, Stars and Galaxies",
-        "description": "",
+        "description": "A general Physics paper that covers astronomy and astrophysics. The course covers a basic history of astronomy and its contemporary significance, fundamentals of our solar system, the composition of space and its different elements and what makes up a Universe. ",
         "projects": ""
     },
     {
         "code": "PHYSICS140",
         "title": "Digital Fundamentals",
-        "description": "",
+        "description": "A basic introduction to digital fundamentals of physics. A compulsory paper for computer science students, the paper covers concepts such as basic logic circuits, Boolean algebra, combinational logic, truth tables and registers and memory.",
         "projects": ""
     },
     {
         "code": "THEOREL106G",
         "title": "Islam and the Contemporary World",
-        "description": "",
+        "description": "A general education paper that acts as an introduction to Islam as a living and multifaceted tradition. Particular attention is drawn to how it is perceived in the contemporary world, especially in New Zealand and Australia. Topics include an overview of the Qur’an, the story of the Prophet Muhammad, the Sunni and Shia schools of thought and controversy around Sharia’s Law.",
         "projects": ""
     },
     {
         "code": "PHIL105G",
         "title": "Critical Thinking",
-        "description": "",
+        "description": "A general education paper that examines critical thinking concepts and philosophical argumentation methods. The course is best understood in four key components; basic arguments, inductive arguments, abductive arguments and arguing in context. ",
         "projects": ""
     },
     {
         "code": "HISTORY242",
         "title": "Early Modern Japan 1600-1868",
-        "description": "",
+        "description": "This course explores the voices and lives of Edo Japanese through the reading of primary sources in translation and a selection of secondary readings. The course is divided into three thematic parts: a general overview of the political situation in the early modern era, an examination of representative aspects of Tokugawa society and culture, and finally an exploration of the rising tensions that were a precursor to major social change in the nineteenth century. ",
         "projects": ""
     },
     {
         "code": "ANTHRO102",
         "title": "How Humans Evolve",
-        "description": "",
+        "description": "The course is an introduction to Biological Anthropology the study of human and non-human primate biological variation over time, and the relationship of that variation to the worlds we inhabit: social, cultural and physical. Biological anthropologists study human evolution and human ecology at a range of different levels, from the gene to the population.",
         "projects": ""
     },
     {
         "code": "JAPANESE150",
         "title": "Exploring Japan",
-        "description": "",
+        "description": "A brief introduction to modern Japanese history, political issues, culture and society. The course enables a multifaceted view of Japan – a country which is often stereotyped as a homogenous society. The relevance and significance of various historical and contemporary events are considered in order to better develop these ideas, with an emphasis on history, society and culture and literature and popular culture.",
         "projects": ""
     }
     ]

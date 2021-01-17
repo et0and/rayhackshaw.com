@@ -33,43 +33,43 @@
     {
         "code": "COMPSCI225",
         "title": "Discrete Structures in Mathematics and Computer Science",
-        "description": "",
+        "description": "An introduction to logic, counting principles, mathematical induction, graphs, trees and algorithms. A more mathematical approach to some of the concepts covered in that of CompSci220, placing more of an emphasis on mathematical proofs and logic based thinking.",
         "projects": ""
     },
     {
         "code": "COMPSCI230",
         "title": "Programming Techniques",
-        "description": "",
+        "description": "An introduction to object-oriented and concurrent programming. Through Java programming applications, fundamental skills in object-oriented software development, GUI programming and application-level multithreading are covered.",
         "projects": ""
     },
     {
         "code": "COMPSCI335",
         "title": "Functional Programming and Distributed Services",
-        "description": "",
+        "description": "A specialised course around functional programming for data integration, distributed services and browser based applications, specifically; REST architectures, security, and performance. Coursework included web-application building, XML/JSON schema testing and pen-testing exercises.",
         "projects": ""
     },
     {
         "code": "COMPSCI340",
         "title": "Operating Systems",
-        "description": "",
+        "description": "A paper designed for understanding the intricacies of operating systems from the perspective of both programmer and program designer. Topics such as distributed computing, embedded devices, virtual machines/virtualisation, efficiency and scalability and parallelisation.",
         "projects": ""
     },
     {
         "code": "COMPSCI345",
         "title": "Human-computer Interaction",
-        "description": "",
+        "description": "A course designed at examining human behaviour and expectations, computer interfaces and the interaction between the two. Usability design principles and human centred design concepts are emphasised, exploring the ideas of those such as Don Norman, Jakob Nielsen and John Maeda concerning human experiences with technology.",
         "projects": ""
     },
     {
         "code": "COMPSCI361",
         "title": "Machine Learning",
-        "description": "",
+        "description": "An introductory course on the basics of machine learning and its application within artificial intelligence. Topics included basic concepts such as data bias, overfitting/underfitting models, applications of ML algorithms on a problem and learning to accurately obtain and interpret the results.",
         "projects": ""
     },
     {
         "code": "COMPSCI373",
         "title": "Computer Graphics and Image Processing",
-        "description": "",
+        "description": "An introduction to the fundamentals of image processing and computer graphics, useful for the analysis and processing of image data and for the reconstruction of realistic 3 dimensional model rendering. The course covered topics like graphics primitives, lighting and shading, texture mapping, ray tracing, character animation and curve and surface design. In addition, image processing fundamentals are presented such as image definition and representation, perception and colour models, grey level and colour enhancement, neighbourhood operations and filtering. ",
         "projects": ""
     },
     {

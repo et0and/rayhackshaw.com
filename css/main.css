@@ -29,6 +29,13 @@ body {
     z-index: 999;
 }
 
+p #width_stop {
+    color: green;
+    text-align: left;
+    margin-left: 10px;
+    width: 20%;
+}
+
 .icons {
     padding-left: 20px;
 }

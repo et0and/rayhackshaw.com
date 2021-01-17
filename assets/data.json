@@ -3,31 +3,31 @@
       {
         "code": "COMPSCI101",
         "title": "Principles of Programming",
-        "description": "",
+        "description": "An introductory paper on the fundamentals of programming and computer science. The course covers variables, expressions, input and output, control structures, functions, simple data structures and modules – these concepts are introduced and applied practically with Python.",
         "projects": ""
       },
       {
         "code": "COMPSCI111",
         "title": "An Introduction to Practical Computing",
-        "description": "",
+        "description": "A practical introduction to computers, hardware and software fundamentals. The course covers a general overview of computing concepts, with a focus on web design, operating systems, history of the internet, basic programming concepts and the social impact of technology.",
         "projects": ""
     },
     {
         "code": "COMPSCI105",
         "title": "Principles of Computer Science",
-        "description": "",
+        "description": "An extension course that carries forward the knowledge gained in CompSci101, with an emphasis on code etiquette through understanding the significance of code reability/efficiency and data structures. More complex programming concepts are introduced, such as arrays, recursion, lists, stacks, queues and hash tables. ",
         "projects": ""
     },
     {
         "code": "COMPSCI210",
         "title": "Computer Systems 1",
-        "description": "",
+        "description": "A paper that aims to explore computer and systems architecture that is used within modern day computing. The course attempts to look at the intermediary interface layer that is used to communicate between the computer hardware and software. Topics such as data representation, a history of computer architecture, logic circuits, assembly language programming and C programming syntax are covered. ",
         "projects": ""
     },
     {
         "code": "COMPSCI220",
         "title": "Algorithms and Data Structures",
-        "description": "",
+        "description": "An introductory course concerning the analysis of algorithm and data structures within computer science. The course covers topics such as time complexity, sorting and searching algorithms, graph optimisation and string matching techniques. ",
         "projects": ""
     },
     {

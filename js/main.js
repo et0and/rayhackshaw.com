@@ -26,3 +26,13 @@ function toggleFlipLogo(){
         if (iteration > 2) iteration = 1
         $(this).data('iteration', iteration)
 }
+
+// function showAboutMe(){
+//     console.log("Working")
+//     var x = document.getElementById("about")
+//     if (x.style.display === "none"){
+//         x.style.display = "block";
+//     } else {
+//         x.style.display = "none";
+//     }
+// }

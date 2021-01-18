@@ -118,3 +118,75 @@ a {
 .fontchange:hover {
     text-shadow: 0 0 10px #ffffff;
 }
+
+.description {
+    margin: 0 30%;
+}
+
+/* iPhone 6/7/8 PLUS */
+@media only screen and (max-width: 414px) {
+    #navigation {
+        font-size: 1.3rem;
+    }
+
+    .logo {
+        margin-top: 150px;
+        font-size: 5rem;
+    }
+
+    .tagline {
+        font-size: 1rem;
+    }
+
+    .contact {
+        font-size: 1rem;
+    }
+
+    #about {
+        margin: 10% 5%;
+    }
+
+    .fontchange {
+        letter-spacing: 0px;
+        padding-left: 3rem;
+    }
+
+    .description {
+        margin: 0 10%;
+    }
+
+}
+
+/* iPhone 6/7/8 + X/XS */
+@media only screen and (max-width: 375px) {
+    #navigation {
+        font-size: 1.3rem;
+    }
+
+    .logo {
+        margin-top: 180px;
+        font-size: 4rem;
+    }
+
+    .tagline {
+        font-size: 1rem;
+    }
+
+    .contact {
+        font-size: 1rem;
+    }
+
+    #about {
+        margin: 10% 7%;
+    }
+
+    .fontchange {
+        letter-spacing: 0px;
+        padding-left: 3rem;
+    }
+}
+
+/* Galaxy S9/S9+ Android */
+@media only screen and (max-width: 360px) {
+  
+}
